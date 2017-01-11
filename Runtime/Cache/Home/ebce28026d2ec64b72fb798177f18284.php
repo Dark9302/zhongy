@@ -442,7 +442,223 @@
                         <!--第二题-->
                         <div class="ti tab-pane" id="ti2">
                             <div class="ti-title">
-                                （1）您精力充沛吗？（指精神头足，乐于做事）234
+                                （1）您精力充沛吗？（指精神头足，乐于做事）23
+                            </div>
+                            <div class="ti-content">
+                                <label><input type="radio" name="ti1"><span>1、没有</span></label>
+                                <label><input type="radio" name="ti1"><span>2、很少</span></label>
+                                <label><input type="radio" name="ti1"><span>3、有时</span></label>
+                                <label><input type="radio" name="ti1"><span>4、经常</span></label>
+                                <label><input type="radio" name="ti1"><span>5、总是</span></label>
+                            </div>
+                            <!--提示-->
+                            <div class="prompt">
+                                <div class="pro-title">选项提示</div>
+                                <div class="pro-inf">
+                                    <span>1、没有（根本不/从来没有）</span>
+                                    <span>2、很少（有一点/偶尔）</span>
+                                    <span>3、有时（有些/少数时间）</span>
+                                    <span>4、经常（相当/多数时间）</span>
+                                    <span>5、总是（非常/每天）</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!--第三题-->
+                        <div class="ti tab-pane" id="ti3">
+                            <div class="ti-title">
+                                （1）您精力充沛吗？（指精神头足，乐于做事）3
+                            </div>
+                            <div class="ti-content">
+                                <label><input type="radio" name="ti1"><span>1、没有</span></label>
+                                <label><input type="radio" name="ti1"><span>2、很少</span></label>
+                                <label><input type="radio" name="ti1"><span>3、有时</span></label>
+                                <label><input type="radio" name="ti1"><span>4、经常</span></label>
+                                <label><input type="radio" name="ti1"><span>5、总是</span></label>
+                            </div>
+                            <!--提示-->
+                            <div class="prompt">
+                                <div class="pro-title">选项提示</div>
+                                <div class="pro-inf">
+                                    <span>1、没有（根本不/从来没有）</span>
+                                    <span>2、很少（有一点/偶尔）</span>
+                                    <span>3、有时（有些/少数时间）</span>
+                                    <span>4、经常（相当/多数时间）</span>
+                                    <span>5、总是（非常/每天）</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!--第四题-->
+                        <div class="ti tab-pane" id="ti4">
+                            <div class="ti-title">
+                                （1）您精力充沛吗？（指精神头足，乐于做事）3
+                            </div>
+                            <div class="ti-content">
+                                <label><input type="radio" name="ti1"><span>1、没有</span></label>
+                                <label><input type="radio" name="ti1"><span>2、很少</span></label>
+                                <label><input type="radio" name="ti1"><span>3、有时</span></label>
+                                <label><input type="radio" name="ti1"><span>4、经常</span></label>
+                                <label><input type="radio" name="ti1"><span>5、总是</span></label>
+                            </div>
+                            <!--提示-->
+                            <div class="prompt">
+                                <div class="pro-title">选项提示</div>
+                                <div class="pro-inf">
+                                    <span>1、没有（根本不/从来没有）</span>
+                                    <span>2、很少（有一点/偶尔）</span>
+                                    <span>3、有时（有些/少数时间）</span>
+                                    <span>4、经常（相当/多数时间）</span>
+                                    <span>5、总是（非常/每天）</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!--第五题-->
+                        <div class="ti tab-pane" id="ti5">
+                            <div class="ti-title">
+                                （1）您精力充沛吗？（指精神头足，乐于做事）3
+                            </div>
+                            <div class="ti-content">
+                                <label><input type="radio" name="ti1"><span>1、没有</span></label>
+                                <label><input type="radio" name="ti1"><span>2、很少</span></label>
+                                <label><input type="radio" name="ti1"><span>3、有时</span></label>
+                                <label><input type="radio" name="ti1"><span>4、经常</span></label>
+                                <label><input type="radio" name="ti1"><span>5、总是</span></label>
+                            </div>
+                            <!--提示-->
+                            <div class="prompt">
+                                <div class="pro-title">选项提示</div>
+                                <div class="pro-inf">
+                                    <span>1、没有（根本不/从来没有）</span>
+                                    <span>2、很少（有一点/偶尔）</span>
+                                    <span>3、有时（有些/少数时间）</span>
+                                    <span>4、经常（相当/多数时间）</span>
+                                    <span>5、总是（非常/每天）</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!--第六题-->
+                        <div class="ti tab-pane" id="ti6">
+                            <div class="ti-title">
+                                （1）您精力充沛吗？（指精神头足，乐于做事）3
+                            </div>
+                            <div class="ti-content">
+                                <label><input type="radio" name="ti1"><span>1、没有</span></label>
+                                <label><input type="radio" name="ti1"><span>2、很少</span></label>
+                                <label><input type="radio" name="ti1"><span>3、有时</span></label>
+                                <label><input type="radio" name="ti1"><span>4、经常</span></label>
+                                <label><input type="radio" name="ti1"><span>5、总是</span></label>
+                            </div>
+                            <!--提示-->
+                            <div class="prompt">
+                                <div class="pro-title">选项提示</div>
+                                <div class="pro-inf">
+                                    <span>1、没有（根本不/从来没有）</span>
+                                    <span>2、很少（有一点/偶尔）</span>
+                                    <span>3、有时（有些/少数时间）</span>
+                                    <span>4、经常（相当/多数时间）</span>
+                                    <span>5、总是（非常/每天）</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!--第七题-->
+                        <div class="ti tab-pane" id="ti7">
+                            <div class="ti-title">
+                                （1）您精力充沛吗？（指精神头足，乐于做事）3
+                            </div>
+                            <div class="ti-content">
+                                <label><input type="radio" name="ti1"><span>1、没有</span></label>
+                                <label><input type="radio" name="ti1"><span>2、很少</span></label>
+                                <label><input type="radio" name="ti1"><span>3、有时</span></label>
+                                <label><input type="radio" name="ti1"><span>4、经常</span></label>
+                                <label><input type="radio" name="ti1"><span>5、总是</span></label>
+                            </div>
+                            <!--提示-->
+                            <div class="prompt">
+                                <div class="pro-title">选项提示</div>
+                                <div class="pro-inf">
+                                    <span>1、没有（根本不/从来没有）</span>
+                                    <span>2、很少（有一点/偶尔）</span>
+                                    <span>3、有时（有些/少数时间）</span>
+                                    <span>4、经常（相当/多数时间）</span>
+                                    <span>5、总是（非常/每天）</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!--第八题-->
+                        <div class="ti tab-pane" id="ti8">
+                            <div class="ti-title">
+                                （1）您精力充沛吗？（指精神头足，乐于做事）3
+                            </div>
+                            <div class="ti-content">
+                                <label><input type="radio" name="ti1"><span>1、没有</span></label>
+                                <label><input type="radio" name="ti1"><span>2、很少</span></label>
+                                <label><input type="radio" name="ti1"><span>3、有时</span></label>
+                                <label><input type="radio" name="ti1"><span>4、经常</span></label>
+                                <label><input type="radio" name="ti1"><span>5、总是</span></label>
+                            </div>
+                            <!--提示-->
+                            <div class="prompt">
+                                <div class="pro-title">选项提示</div>
+                                <div class="pro-inf">
+                                    <span>1、没有（根本不/从来没有）</span>
+                                    <span>2、很少（有一点/偶尔）</span>
+                                    <span>3、有时（有些/少数时间）</span>
+                                    <span>4、经常（相当/多数时间）</span>
+                                    <span>5、总是（非常/每天）</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!--第九题-->
+                        <div class="ti tab-pane" id="ti9">
+                            <div class="ti-title">
+                                （1）您精力充沛吗？（指精神头足，乐于做事）3
+                            </div>
+                            <div class="ti-content">
+                                <label><input type="radio" name="ti1"><span>1、没有</span></label>
+                                <label><input type="radio" name="ti1"><span>2、很少</span></label>
+                                <label><input type="radio" name="ti1"><span>3、有时</span></label>
+                                <label><input type="radio" name="ti1"><span>4、经常</span></label>
+                                <label><input type="radio" name="ti1"><span>5、总是</span></label>
+                            </div>
+                            <!--提示-->
+                            <div class="prompt">
+                                <div class="pro-title">选项提示</div>
+                                <div class="pro-inf">
+                                    <span>1、没有（根本不/从来没有）</span>
+                                    <span>2、很少（有一点/偶尔）</span>
+                                    <span>3、有时（有些/少数时间）</span>
+                                    <span>4、经常（相当/多数时间）</span>
+                                    <span>5、总是（非常/每天）</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!--第十题-->
+                        <div class="ti tab-pane" id="ti10">
+                            <div class="ti-title">
+                                （1）您精力充沛吗？（指精神头足，乐于做事）3
+                            </div>
+                            <div class="ti-content">
+                                <label><input type="radio" name="ti1"><span>1、没有</span></label>
+                                <label><input type="radio" name="ti1"><span>2、很少</span></label>
+                                <label><input type="radio" name="ti1"><span>3、有时</span></label>
+                                <label><input type="radio" name="ti1"><span>4、经常</span></label>
+                                <label><input type="radio" name="ti1"><span>5、总是</span></label>
+                            </div>
+                            <!--提示-->
+                            <div class="prompt">
+                                <div class="pro-title">选项提示</div>
+                                <div class="pro-inf">
+                                    <span>1、没有（根本不/从来没有）</span>
+                                    <span>2、很少（有一点/偶尔）</span>
+                                    <span>3、有时（有些/少数时间）</span>
+                                    <span>4、经常（相当/多数时间）</span>
+                                    <span>5、总是（非常/每天）</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!--第十一题-->
+                        <div class="ti tab-pane" id="ti11">
+                            <div class="ti-title">
+                                （1）您精力充沛吗？（指精神头足，乐于做事）3
                             </div>
                             <div class="ti-content">
                                 <label><input type="radio" name="ti1"><span>1、没有</span></label>
@@ -473,17 +689,17 @@
                     <div class="tiNum">
                         <table class="nav nav-tabs" id="myTiContent">
                             <tr>
-                                <td><a href="#ti1" class="active"  data-toggle="tab">1</a></td>
+                                <td class="active"><a href="#ti1"data-toggle="tab">1</a></td>
                                 <td><a href="#ti2" data-toggle="tab">2</a></td>
-                                <td><a href="#">3</a></td>
-                                <td><a href="#">4</a></td>
-                                <td><a href="#">5</a></td>
-                                <td><a href="#">6</a></td>
-                                <td><a href="#">7</a></td>
-                                <td><a href="#">8</a></td>
-                                <td><a href="#">9</a></td>
-                                <td><a href="#">10</a></td>
-                                <td><a href="#">11</a></td>
+                                <td><a href="#ti3" data-toggle="tab">3</a></td>
+                                <td><a href="#ti4" data-toggle="tab">4</a></td>
+                                <td><a href="#ti5" data-toggle="tab">5</a></td>
+                                <td><a href="#ti6" data-toggle="tab">6</a></td>
+                                <td><a href="#ti7" data-toggle="tab">7</a></td>
+                                <td><a href="#ti8" data-toggle="tab">8</a></td>
+                                <td><a href="#ti9" data-toggle="tab">9</a></td>
+                                <td><a href="#ti10" data-toggle="tab">10</a></td>
+                                <td><a href="#ti11" data-toggle="tab">11</a></td>
                             </tr>
                             <tr>
                                 <td><a href="#">12</a></td>
