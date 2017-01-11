@@ -9,12 +9,12 @@
 <!-- Le styles -->
 
 
-<link rel="stylesheet" href="/TP3.2.3pykj/Public/muban/assets/css/style.css">
-<link rel="stylesheet" href="/TP3.2.3pykj/Public/muban/assets/css/loader-style.css">
-<link rel="stylesheet" href="/TP3.2.3pykj/Public/muban/assets/css/bootstrap.css">
+<link rel="stylesheet" href="/xiangm/Public/muban/assets/css/style.css">
+<link rel="stylesheet" href="/xiangm/Public/muban/assets/css/loader-style.css">
+<link rel="stylesheet" href="/xiangm/Public/muban/assets/css/bootstrap.css">
 
-    <link rel="stylesheet" href="/TP3.2.3pykj/Public/css/dengji.css">
-    <script src="/TP3.2.3pykj/Public/js/jeDate/jedate.js"></script>
+    <link rel="stylesheet" href="/xiangm/Public/css/dengji.css">
+    <script src="/xiangm/Public/js/jeDate/jedate.js"></script>
 
 
 <style type="text/css">
@@ -47,7 +47,7 @@
 <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 <!-- Fav and touch icons -->
-<link rel="shortcut icon" href="/TP3.2.3pykj/Public/muban/assets/ico/minus.png">
+<link rel="shortcut icon" href="/xiangm/Public/muban/assets/ico/minus.png">
 </head>
 <body>
 <!-- 开始头 -->
@@ -111,7 +111,7 @@
 				<!-- 个人信息 -->
 				<li>
 					<a data-toggle="dropdown" class="dropdown-toggle" href="#">
-					<img alt="" class="admin-pic img-circle" src="/TP3.2.3pykj/Public/muban/assets/img/canga.jpg">
+					<img alt="" class="admin-pic img-circle" src="/xiangm/Public/muban/assets/img/canga.jpg">
 					Hi, 帅气的xxoo <b class="caret"></b>
 					</a>
 					<ul style="margin-top:14px;" role="menu" class="dropdown-setting dropdown-menu">
@@ -174,7 +174,7 @@
 <div id="skin-select">
 	<!-- logo -->
 	<div style=" margin-top:-20px; " >
-		<img src="/TP3.2.3pykj/Public/muban/assets/img/pengyu1.png"  alt="logo" style="  width: 150px; margin-left:30px; ">
+		<img src="/xiangm/Public/muban/assets/img/pengyu1.png"  alt="logo" style="  width: 150px; margin-left:30px; ">
 	</div>
 	<!-- 显示隐藏的图标 -->
 	<a id="toggle">
@@ -409,7 +409,7 @@
             <div style="background-color:#d7d715;border-radius:10px 10px 0px 0px">
                 <div class="title2 center">
                 <div>
-                    <img src="/TP3.2.3pykj/Public/img/reg.png" alt="图片加载失败！">
+                    <img src="/xiangm/Public/img/reg.png" alt="图片加载失败！">
                 </div>
                 <div class="djfont">
                     患者基本信息
@@ -596,7 +596,7 @@
     </div>
 
     <!-- 结束 最右侧隐藏的菜单-->
-    <script type="text/javascript" src="/TP3.2.3pykj/Public/muban/assets/js/jquery.js"></script>
+    <script type="text/javascript" src="/xiangm/Public/muban/assets/js/jquery.js"></script>
     <!-- <script src="assets/js/progress-bar/src/jquery.velocity.min.js"></script> -->
     <!-- <script src="assets/js/progress-bar/number-pb.js"></script> -->
     <!-- <script src="assets/js/progress-bar/progress-app.js"></script> -->
@@ -605,12 +605,12 @@
 
     <!-- MAIN EFFECT -->
     <!-- <script type="text/javascript" src="assets/js/preloader.js"></script> -->
-    <script type="text/javascript" src="/TP3.2.3pykj/Public/muban/assets/js/bootstrap.js"></script>
-    <script type="text/javascript" src="/TP3.2.3pykj/Public/muban/assets/js/app.js"></script>
-    <script type="text/javascript" src="/TP3.2.3pykj/Public/muban/assets/js/load.js"></script>
-    <script type="text/javascript" src="/TP3.2.3pykj/Public/muban/assets/js/main.js"></script>
-	<script src="/TP3.2.3pykj/Public/js/shijian.js"></script>
-	<!--<script src="/TP3.2.3pykj/Public/js/bingshi.js"></script>-->
+    <script type="text/javascript" src="/xiangm/Public/muban/assets/js/bootstrap.js"></script>
+    <script type="text/javascript" src="/xiangm/Public/muban/assets/js/app.js"></script>
+    <script type="text/javascript" src="/xiangm/Public/muban/assets/js/load.js"></script>
+    <script type="text/javascript" src="/xiangm/Public/muban/assets/js/main.js"></script>
+	<script src="/xiangm/Public/js/shijian.js"></script>
+	<!--<script src="/xiangm/Public/js/bingshi.js"></script>-->
 	
 <div style="text-align:center;">
 <p>Health home <a href="http://www.cssmoban.com/" target="_blank" title="模板之家" style="color: #9ea7b3;">健康之家</a>

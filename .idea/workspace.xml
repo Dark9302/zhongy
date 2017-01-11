@@ -3,6 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="2c7c046f-a9b6-44d3-88b9-1397bdcda374" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/View/Index/tizhi.html" afterPath="$PROJECT_DIR$/Application/Home/View/Index/tizhi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/base.html" afterPath="$PROJECT_DIR$/Public/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/39b332e5f8883cb2938d6d989e0f6c27.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/39b332e5f8883cb2938d6d989e0f6c27.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/3e2c824eed4b7b7923cdfc3870f6c185.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/3e2c824eed4b7b7923cdfc3870f6c185.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/5335e53c5a1c27126bee16e236f1ebc6.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/5335e53c5a1c27126bee16e236f1ebc6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/8a0f4483644fe13efe9990615860174b.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/8a0f4483644fe13efe9990615860174b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/e79ccf53c51c2c1282dfd5d080ba3cd8.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/e79ccf53c51c2c1282dfd5d080ba3cd8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/ebce28026d2ec64b72fb798177f18284.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/ebce28026d2ec64b72fb798177f18284.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/f3f951ef0fd5812dfb213c60ad954842.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/f3f951ef0fd5812dfb213c60ad954842.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Cache/Home/fb21b797cd3db9850b84adc90c47f641.php" afterPath="$PROJECT_DIR$/Runtime/Cache/Home/fb21b797cd3db9850b84adc90c47f641.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runtime/Logs/Home/17_01_10.log" afterPath="$PROJECT_DIR$/Runtime/Logs/Home/17_01_10.log" />
     </list>
     <ignored path="TP3.2.3pykj.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,28 +39,18 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Public/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="-83.588234">
+              <caret line="232" column="48" selection-start-line="232" selection-start-column="48" selection-end-line="232" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/index2.html">
+      <file leaf-file-name="xykf.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public/css/xykf.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/index3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -57,7 +59,7 @@
       <file leaf-file-name="jiankang.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/jiankang.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.7352941">
               <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
               <folding />
             </state>
@@ -67,12 +69,21 @@
       <file leaf-file-name="tizhi.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/tizhi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45592704">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.5700576">
+              <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
               <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#block#1;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#block#1;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tizhi.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public/js/tizhi.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -112,7 +123,6 @@
         <option value="$PROJECT_DIR$/Public/js/jedate/skin/jedate.css" />
         <option value="$PROJECT_DIR$/Public/js/jedate/skin/gray.css" />
         <option value="$USER_HOME$/Desktop/多功能jQuery日期控件 jeDate/index.html" />
-        <option value="$PROJECT_DIR$/Public/base.html" />
         <option value="$PROJECT_DIR$/Application/Home/View/Index/chaxun.html" />
         <option value="$PROJECT_DIR$/Application/Home/View/Index/chaxun1.html" />
         <option value="$PROJECT_DIR$/Application/Home/View/Index/dengji.html" />
@@ -121,8 +131,9 @@
         <option value="$PROJECT_DIR$/Application/Home/View/Index/home1.html" />
         <option value="$PROJECT_DIR$/Application/Home/View/Index/jiankang.html" />
         <option value="$PROJECT_DIR$/Application/Home/View/Index/tiaoyang.html" />
-        <option value="$PROJECT_DIR$/Application/Home/View/Index/tizhi.html" />
         <option value="$PROJECT_DIR$/Application/Home/View/Index/yuyue.html" />
+        <option value="$PROJECT_DIR$/Public/base.html" />
+        <option value="$PROJECT_DIR$/Application/Home/View/Index/tizhi.html" />
       </list>
     </option>
   </component>
@@ -138,7 +149,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -172,7 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -187,12 +197,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="xiangm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="TP3.2.3pykj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xiangm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TP3.2.3pykj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xiangm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -201,7 +244,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dou/upload" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
@@ -255,12 +298,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22087745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24279211" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="版本控制" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -296,13 +339,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Application/Home/View/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/zyjkda/css/tongpei.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33589253">
@@ -478,13 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Public/js/tizhi.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7120921">
@@ -590,14 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/index3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -606,26 +627,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/jiankang.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/tiaoyang.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.047984645">
           <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Public/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -650,12 +655,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/css/xykf.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/js/tizhi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-83.588234">
+          <caret line="232" column="48" selection-start-line="232" selection-start-column="48" selection-end-line="232" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/jiankang.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7352941">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/tizhi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45592704">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.5700576">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#block#1;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#block#1;n#!!top" expanded="false" />
           </folding>
         </state>
