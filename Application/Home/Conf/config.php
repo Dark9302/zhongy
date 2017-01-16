@@ -10,6 +10,6 @@ return array(
     'DB_PORT'               =>  '3306',        // 端口
     'DB_PREFIX'             =>  'yycp_',    // 数据库表前缀
     'DB_CHARSET'            =>  'utf8',      // 数据库编码默认采用utf8
-    'SHOW_PAGE_TRACE'       =>  'true',      //开启页面跟踪信息
+//    'SHOW_PAGE_TRACE'       =>  'true',      //开启页面跟踪信息
 
 );

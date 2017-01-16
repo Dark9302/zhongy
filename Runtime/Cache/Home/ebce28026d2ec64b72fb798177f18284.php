@@ -689,7 +689,7 @@
                     <div class="tiNum">
                         <table class="nav nav-tabs" id="myTiContent">
                             <tr>
-                                <td class="active"><a href="#ti1"data-toggle="tab">1</a></td>
+                                <td><a href="#ti1" data-toggle="tab">1</a></td>
                                 <td><a href="#ti2" data-toggle="tab">2</a></td>
                                 <td><a href="#ti3" data-toggle="tab">3</a></td>
                                 <td><a href="#ti4" data-toggle="tab">4</a></td>
